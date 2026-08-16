@@ -1,0 +1,9 @@
+[submodule "config-server"]
+	path = config-server
+	url = file:///Users/manuthlakdiv/IJSE/SmartPark-Project/backend/config-server
+[submodule "eureka-server"]
+	path = eureka-server
+	url = file:///Users/manuthlakdiv/IJSE/SmartPark-Project/backend/eureka-server
+[submodule "api-gateway"]
+	path = api-gateway
+	url = file:///Users/manuthlakdiv/IJSE/SmartPark-Project/backend/api-gateway
